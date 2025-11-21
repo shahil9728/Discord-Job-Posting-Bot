@@ -4,6 +4,9 @@
 
 JobHound fetch job listings from individual servers, but it also has the ability to scrape across your entire Discord account, retrieving servers, channels, and job-related messages from multiple sources. By automating the process, it ensures that the latest job opportunities are sent directly to your Discord channel, making it an invaluable tool for job-focused communities.
 
+**Why I created this:**
+
+In the early stages of our careers, especially right after college, many students look for jobs and internships by joining countless Discord channels. But because of the overwhelming number of channels and random messages, genuine job opportunities often get buried. That’s why I built this — to help anyone easily find real gigs without the noise.
 
 ---
 
